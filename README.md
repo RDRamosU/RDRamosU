@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hola, soy Ruben Dario 👋
 
-<!--
-**RDRamosU/RDRamosU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ingeniero informático colegiado (CPIC) con enfoque en desarrollo web y análisis de datos.
+Actualmente construyendo mi portafolio de análisis de datos como parte del programa 
+Cisco Data Analytics patrocinado por MICITT Costa Rica.
 
-Here are some ideas to get you started:
+## Qué encontrarás aquí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Desarrollo frontend y backend**
+- Aplicaciones web con React, Node.js y PostgreSQL
+- APIs RESTful con autenticación y documentación Swagger
+- Proyectos reales con clientes (lunasalonbymargarita.salon)
+
+**Análisis de datos** *(en construcción activa)*
+- EDA sobre datasets públicos costarricenses
+- Herramientas: Python · pandas · NumPy · Matplotlib · Seaborn
+- Fuentes: INEC, BCCR, COMEX, ICT, MINAE
+
+## Stack
+
+`JavaScript` `React` `Node.js` `PostgreSQL` `Python` `pandas` `Git`
+
+## Contacto
+
+[rubendario.dev](https://rubendario.dev) · [LinkedIn](https://linkedin.com/in/ruben-ramos)
